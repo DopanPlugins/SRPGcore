@@ -14,8 +14,8 @@
 //=============================================================================
 
 /*:
- * @plugindesc SRPG battle system (tactical battle system) on map (edited Version 1.32).
- * @author Gakuto Mikagami, Dr. Q (extraEdits by boomy & dopan)
+ * @plugindesc SRPG battle system (tactical battle system) on map (edited Version 1.32_extraEdits by boomy & dopan).
+ * @author Gakuto Mikagami, Dr. Q 
  *
  * @param srpgTroopID
  * @desc SRPGconverter use this troop ID.
